@@ -1,0 +1,20 @@
+{
+  "id": "/?app=rider",
+  "name": "ManguDelivery - Boda Rider",
+  "short_name": "ManguRider",
+  "description": "Receive Masaka delivery jobs, navigate pickup & dropoff, verify delivery PIN, earn fares.",
+  "start_url": "/?app=rider&standalone=true",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-rider.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

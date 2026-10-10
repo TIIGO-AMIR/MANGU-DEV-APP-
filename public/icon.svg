@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#020617"/>
+  <circle cx="256" cy="256" r="190" fill="#059669" opacity="0.15"/>
+  <rect x="96" y="96" width="320" height="320" rx="64" fill="url(#gradM)"/>
+  <defs>
+    <linearGradient id="gradM" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <text x="256" y="325" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="220" font-weight="900" fill="#ffffff" text-anchor="middle">M</text>
+  <circle cx="360" cy="150" r="26" fill="#f59e0b"/>
+</svg>

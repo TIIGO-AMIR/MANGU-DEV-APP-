@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#020617"/>
+  <rect x="96" y="96" width="320" height="320" rx="64" fill="url(#gradBuyer)"/>
+  <defs>
+    <linearGradient id="gradBuyer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <!-- Shopping Bag Icon -->
+  <path d="M190 200 V160 C190 125 220 95 256 95 C292 95 322 125 322 160 V200" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <rect x="156" y="200" width="200" height="200" rx="36" fill="#ffffff"/>
+  <circle cx="216" cy="260" r="14" fill="#d97706"/>
+  <circle cx="296" cy="260" r="14" fill="#d97706"/>
+  <path d="M216 290 Q256 325 296 290" fill="none" stroke="#d97706" stroke-width="12" stroke-linecap="round"/>
+</svg>

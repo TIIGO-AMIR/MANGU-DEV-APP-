@@ -1,0 +1,20 @@
+{
+  "id": "/?app=seller",
+  "name": "ManguDelivery - Merchant",
+  "short_name": "ManguSeller",
+  "description": "Manage Masaka store, menu, incoming food orders, dispatch boda delivery partners.",
+  "start_url": "/?app=seller&standalone=true",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#a855f7",
+  "icons": [
+    {
+      "src": "/icon-seller.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

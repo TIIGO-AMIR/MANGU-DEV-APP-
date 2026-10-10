@@ -1,0 +1,20 @@
+{
+  "id": "/?app=buyer",
+  "name": "ManguDelivery - Buyer",
+  "short_name": "ManguBuyer",
+  "description": "Order local meals, groceries, butchery & pharmacy in Masaka City with fast Boda delivery.",
+  "start_url": "/?app=buyer&standalone=true",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/icon-buyer.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

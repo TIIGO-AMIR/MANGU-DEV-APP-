@@ -1,0 +1,6 @@
+{
+  "name": "ManguDelivery - Masaka City Marketplace & Delivery",
+  "description": "Multi-platform delivery and marketplace ecosystem for Masaka City featuring Admin Control Plane, Buyer, Seller, and Boda-Boda Rider platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
